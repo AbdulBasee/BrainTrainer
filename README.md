@@ -24,14 +24,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='videoWalkthrough.gif' width='' alt='Video Walkthrough' />
+<img src='videoWalkthroughbraintrainers.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had to go through some of the confusing concepts such as java interfaces. I had to learn it before implementing it. 
+I had to go through some of the confusing concepts such as java user interaction features. I had to learn it before implementing it. 
 
 ## License
 
